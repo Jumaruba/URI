@@ -14,11 +14,11 @@ def dic_const(linhas):
     return dicionario
 
 
-def profundidade(n, marcado):  # visitar no n
+def profundidade(n):  # visitar no n
     marcado.append(n)
     for i in dicionario[n]:
         if i not in marcado:
-            profundidade(i, marcado)
+            profundidade(i)
     return marcado
 
 
@@ -36,7 +36,7 @@ contador = 1
 while vertices != 0 and linhas != 0:
 
     dicionario = dic_const(linhas)
-    lista = profundidade(1, marcado)
+    lista = profundidade(1)
     lista = sorted(lista)
     lista_esperada = esperado(vertices)
 

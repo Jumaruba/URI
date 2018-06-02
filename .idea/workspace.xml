@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Programação em python_1089 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1129 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1140 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1318 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1471 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1533 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1542 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2322 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2376 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1104 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1120 (error).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1217 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1241 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1253 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1267 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1332 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1536 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1609 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1794 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2306.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programação em python_URI_1216 (error).py" beforeDir="false" afterPath="$PROJECT_DIR$/Programação em python_URI_1216 (error).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programação em python_URI_2322 (incomplete).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programação em python_URI_2376.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" beforeDir="false" afterPath="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +25,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Programação em python_URI_1318 (accepted).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programação em python_URI_1318 (accepted).py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Programação em python_URI_2306.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programação em python_URI_2306.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grafo conexo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Programação em python_URI_2300 (accepted).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -50,12 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programação em python_URI_2390.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1710.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_2329.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_2174.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_2137.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_2062.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1591.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1591 (incomplete).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1234.py" />
@@ -85,7 +93,6 @@
         <option value="$PROJECT_DIR$/Programação em python_URI_2322 (incomplete).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1471.py" />
         <option value="$PROJECT_DIR$/Programação em python_1089.py" />
-        <option value="$PROJECT_DIR$/Teste.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1129.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1140.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1140 (accepted).py" />
@@ -93,6 +100,21 @@
         <option value="$PROJECT_DIR$/Programação em python_URI_1216 (error).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1533.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1318.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1253.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1332.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1332 (accepted).py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1241.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1241 (accepted).py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1120.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1104.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1536.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1217.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1794.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1267.py" />
+        <option value="$PROJECT_DIR$/Teste.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1609.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_2306.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" />
       </list>
     </option>
   </component>
@@ -141,8 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Programação em python_URI_1318">
-    <configuration name="Programação em python_URI_1140" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Programação em python_URI_2300 (accepted)">
+    <configuration name="Programação em python_URI_1267" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,13 +176,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1140 (accepted).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1267 (accepted).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_1216 (error)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Programação em python_URI_1609" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,13 +194,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programação em python_URI_1216 (error).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1609 (accepted).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_1318" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Programação em python_URI_2300 (accepted)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,13 +212,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1318 (accepted).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_1533" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Programação em python_URI_2306" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,13 +230,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1533 (accepted).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programação em python_URI_2306.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_1542" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,26 +248,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1542 (accepted).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Programação em python_URI_1140" />
-      <item itemvalue="Python.Programação em python_URI_1542" />
-      <item itemvalue="Python.Programação em python_URI_1216 (error)" />
-      <item itemvalue="Python.Programação em python_URI_1533" />
-      <item itemvalue="Python.Programação em python_URI_1318" />
+      <item itemvalue="Python.Programação em python_URI_1267" />
+      <item itemvalue="Python.Teste" />
+      <item itemvalue="Python.Programação em python_URI_1609" />
+      <item itemvalue="Python.Programação em python_URI_2306" />
+      <item itemvalue="Python.Programação em python_URI_2300 (accepted)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Programação em python_URI_1318" />
-        <item itemvalue="Python.Programação em python_URI_1533" />
-        <item itemvalue="Python.Programação em python_URI_1216 (error)" />
-        <item itemvalue="Python.Programação em python_URI_1542" />
-        <item itemvalue="Python.Programação em python_URI_1140" />
+        <item itemvalue="Python.Programação em python_URI_2300 (accepted)" />
+        <item itemvalue="Python.Programação em python_URI_2306" />
+        <item itemvalue="Python.Programação em python_URI_1609" />
+        <item itemvalue="Python.Teste" />
+        <item itemvalue="Python.Programação em python_URI_1267" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527893160377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1527917053167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527917053167</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4041721" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -325,52 +353,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programação em python_URI_1253 (accepted).py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1237 (wrong_logic).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="107" selection-start-line="22" selection-start-column="107" selection-end-line="22" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2373 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1025 (time limited).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2390 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2174 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2137 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_2062 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -511,13 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1546 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1566922382/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -568,13 +554,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Progração em python_URI_2426 (incomplete).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526846288000" expanded="true" signature="87:90" ph="..." />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_1471 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
@@ -604,13 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_1542 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -636,6 +609,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1253 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1332 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1241 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1546 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1104 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1120 (error).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1536 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1217 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1794 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1267 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1609 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2306.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>

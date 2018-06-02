@@ -1,1 +1,3 @@
-lista = [1, 2, 3,4,5,6]
+lista =  '100 1 1 0 0'
+
+print(set(lista))
