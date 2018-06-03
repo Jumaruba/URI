@@ -1,3 +1,3 @@
-lista =  '100 1 1 0 0'
+dict = {}
 
-print(set(lista))
+dict[8] = ['', 8]

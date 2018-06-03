@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1104 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1120 (error).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1217 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1241 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1253 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1267 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1332 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1536 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1609 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1794 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2306.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" beforeDir="false" afterPath="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,21 +19,34 @@
         <entry file="file://$PROJECT_DIR$/Programação em python_URI_2306.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-end-line="14" />
+              <caret line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Grafo conexo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Programação em python_URI_2300 (accepted).py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Programação em python_URI_2300 (accepted).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="217">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teste.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Teste.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Programação em python_URI_1466 (accepted) .py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -64,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programação em python_URI_1591.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1591 (incomplete).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1234.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2293.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2373.py" />
@@ -111,17 +111,20 @@
         <option value="$PROJECT_DIR$/Programação em python_URI_1217.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1794.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1267.py" />
-        <option value="$PROJECT_DIR$/Teste.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1609.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2306.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" />
+        <option value="$PROJECT_DIR$/Teste.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1195.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="735" />
+    <option name="y" value="-28" />
     <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -145,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,8 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Programação em python_URI_2300 (accepted)">
-    <configuration name="Programação em python_URI_1267" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Programação em python_URI_1195">
+    <configuration name="Programação em python_URI_1195" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1267 (accepted).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_1466 (accepted) .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,19 +258,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Programação em python_URI_1267" />
       <item itemvalue="Python.Teste" />
       <item itemvalue="Python.Programação em python_URI_1609" />
       <item itemvalue="Python.Programação em python_URI_2306" />
       <item itemvalue="Python.Programação em python_URI_2300 (accepted)" />
+      <item itemvalue="Python.Programação em python_URI_1195" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Programação em python_URI_1195" />
         <item itemvalue="Python.Programação em python_URI_2300 (accepted)" />
         <item itemvalue="Python.Programação em python_URI_2306" />
         <item itemvalue="Python.Programação em python_URI_1609" />
         <item itemvalue="Python.Teste" />
-        <item itemvalue="Python.Programação em python_URI_1267" />
       </list>
     </recent_temporary>
   </component>
@@ -317,24 +320,32 @@
       <option name="project" value="LOCAL" />
       <updated>1527917053167</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <created>1527982057995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527982057996</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4041721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16601562" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19724138" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -364,6 +375,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_2062 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -553,9 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Progração em python_URI_2426 (incomplete).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_1471 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -689,27 +704,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_2306.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-end-line="14" />
+          <caret line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="217">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
     </entry>
