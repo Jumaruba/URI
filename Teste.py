@@ -1,3 +1,3 @@
-dict = {}
+primeiro = 'ele queria ser um passaro'
 
-dict[8] = ['', 8]
+print(primeiro.split())
