@@ -1,9 +1,10 @@
 quantidade, diferentes = map(int, input().split())
 
-x = list(map(int, input().split()))
-lista = []
-for i in range(1, diferentes + 1):
-    valor = x.count(i)
-    lista.append(valor)
+lista = list(map(int, input().split()))
+menor = lista.count(1)
+for i in range(2, diferentes + 1):
+    numero = lista.count(i)
+    if numero < menor:
+        menor = numero
 
-print(min(lista))
+print(menor)

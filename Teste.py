@@ -1,3 +1,3 @@
-primeiro = 'ele queria ser um passaro'
+x , y = input().split()
 
-print(primeiro.split())
+print(x, y)
