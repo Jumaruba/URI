@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica/Organizar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2327 (repeat) (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2407 (accepted).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/URI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/URI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Data_Science_book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrever.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Vogais/Vogais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Enumerate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Geradores/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1932 (NN).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1940 (accepted).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2238.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2499 (accepted).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programação em python_URI_2318 (error).py" beforeDir="false" afterPath="$PROJECT_DIR$/Programação em python_URI_2318 (error).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,23 +29,65 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Programação em python_URI_2327 (repeat) (accepted).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programação em python_URI_2327 (repeat) (accepted).py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Yield.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-end-line="56" />
+            <state relative-caret-position="119">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Programação em python_URI_2318 (error).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programação em python_URI_2318 (error).py">
+      <file leaf-file-name="Enumerate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="73" lean-forward="true" selection-end-line="73" />
+            <state relative-caret-position="51">
+              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercicio 1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matplotlib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reescrever.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Reescrever.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Refazer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reescrito.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrito.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Reescrever.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrever.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -47,26 +100,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programação em python_URI_1216 (error).py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1533.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1318.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1253.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1332.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1332 (accepted).py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1241.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1241 (accepted).py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1120.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1104.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1536.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1217.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1794.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1267.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1609.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2306.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py" />
@@ -103,41 +141,111 @@
         <option value="$PROJECT_DIR$/Programação em python_URI_2407.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2327 (repeat).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2318 (error).py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1932.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1940.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_1932 (NN).py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_2499.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/Sort.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Vogais/Vogais.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py" />
+        <option value="$PROJECT_DIR$/Programação em python_URI_2238.py" />
+        <option value="$PROJECT_DIR$/../Python/Teste.py" />
+        <option value="$PROJECT_DIR$/../Python/Sintax/Geradores/Geradores.py" />
+        <option value="$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py" />
+        <option value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py" />
+        <option value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" />
+        <option value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="695" />
+    <option name="y" value="-20" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="URI" type="cbb8eebc:String" user="URI" />
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="URI" type="cbb8eebc:String" user="URI" />
-              <item name="URI" type="cbb8eebc:String" user="URI" />
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
+              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
+              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
+              <item name="Rating" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
+              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
+              <item name="Reescrever texto em outro arquivo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
+              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
+              <item name="Reescrever texto em outro arquivo" type="462c0819:PsiDirectoryNode" />
+              <item name="Refazer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Python" type="cbb8eebc:String" user="Python" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Python" type="cbb8eebc:String" user="Python" />
+              <item name="C:\Users\julia\OneDrive\Python" type="cbb8eebc:String" user="C:\Users\julia\OneDrive\Python" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Python" type="cbb8eebc:String" user="Python" />
+              <item name="C:\Users\julia\OneDrive\Python" type="cbb8eebc:String" user="C:\Users\julia\OneDrive\Python" />
+              <item name="Deveres de sala" type="cbb8eebc:String" user="Deveres de sala" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Python\Deveres de sala\Manipulação de arquivos\Reescrever texto em outro arquivo\Refazer" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,111 +259,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Programação em python_URI_2318 (error)">
-    <configuration name="Organizar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Ordem alfabetica" />
+  <component name="RunManager" selected="Python.Refazer">
+    <configuration name="Enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Sintax/Enumerate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica/Organizar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_2318 (error)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="URI" />
+    <configuration name="Exercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Sintax/Enumerate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_2318 (accepted).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_2327 (repeat)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="URI" />
+    <configuration name="Matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_2327 (repeat) (accepted).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_2407" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="URI" />
+    <configuration name="Refazer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_2407 (accepted).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Programação em python_URI_2421" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="URI" />
+    <configuration name="Yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Sintax/Geradores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python_URI_2421 (wrong).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Programação em python_URI_2421" />
-      <item itemvalue="Python.Organizar" />
-      <item itemvalue="Python.Programação em python_URI_2407" />
-      <item itemvalue="Python.Programação em python_URI_2327 (repeat)" />
-      <item itemvalue="Python.Programação em python_URI_2318 (error)" />
+      <item itemvalue="Python.Yield" />
+      <item itemvalue="Python.Enumerate" />
+      <item itemvalue="Python.Exercicio 1" />
+      <item itemvalue="Python.Matplotlib" />
+      <item itemvalue="Python.Refazer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Programação em python_URI_2318 (error)" />
-        <item itemvalue="Python.Programação em python_URI_2327 (repeat)" />
-        <item itemvalue="Python.Programação em python_URI_2407" />
-        <item itemvalue="Python.Organizar" />
-        <item itemvalue="Python.Programação em python_URI_2421" />
+        <item itemvalue="Python.Refazer" />
+        <item itemvalue="Python.Matplotlib" />
+        <item itemvalue="Python.Exercicio 1" />
+        <item itemvalue="Python.Enumerate" />
+        <item itemvalue="Python.Yield" />
       </list>
     </recent_temporary>
   </component>
@@ -340,25 +448,32 @@
       <option name="project" value="LOCAL" />
       <updated>1528762263042</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update">
+      <created>1528846138463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528846138463</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.49674055" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24804688" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39748955" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39724138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39448276" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -367,27 +482,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49674055" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39888424" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -400,215 +494,110 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Programação em python_URI_1253 (accepted).py</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>1</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>4</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>5</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>6</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>8</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>9</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>10</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>13</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>12</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>14</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>17</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>19</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>18</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>20</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>23</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>22</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>24</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>25</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/../Python/Algoritmos/Grafo conexo_2.py</url>
           <line>11</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="65" />
+      <option name="time" value="118" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1533 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1318 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1253 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1332 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1241 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1546 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1104 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1120 (error).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1536 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1217 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1794 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1267 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1609 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2306 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_1101 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -810,8 +799,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2327 (important)(accepted).py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2318 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="73" selection-end-line="73" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_2327 (repeat) (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
@@ -820,10 +813,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2318 (error).py">
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1932 (NN).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="73" lean-forward="true" selection-end-line="73" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1940 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Sort.py" />
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2499 (accepted).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Vogais/Vogais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2238.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Reescrever.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrever.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrito.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
