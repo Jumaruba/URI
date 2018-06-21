@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Data_Science_book/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrever.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Vogais/Vogais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Enumerate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Sintax/Geradores/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1932 (NN).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_1940 (accepted).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2238.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programação em python_URI_2499 (accepted).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Scripts/Udacity/Standard Deviation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,68 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Yield.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Enumerate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercicio 1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matplotlib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reescrever.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Reescrever.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Refazer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reescrito.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrito.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Reescrever.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrever.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,7 +28,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programação em python_URI_2306.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1515.py" />
@@ -149,21 +71,21 @@
         <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Vogais/Vogais.py" />
         <option value="$PROJECT_DIR$/../Python/Deveres de sala/P1/Distancia entre ponto e plano.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2238.py" />
-        <option value="$PROJECT_DIR$/../Python/Teste.py" />
         <option value="$PROJECT_DIR$/../Python/Sintax/Geradores/Geradores.py" />
         <option value="$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py" />
         <option value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py" />
         <option value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" />
         <option value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" />
         <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" />
+        <option value="$PROJECT_DIR$/../Python/Teste.py" />
+        <option value="$PROJECT_DIR$/../Python/Standard Deviation.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="695" />
-    <option name="y" value="-20" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,50 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
-              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
-              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
-              <item name="Rating" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
-              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
-              <item name="Reescrever texto em outro arquivo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
-              <item name="Manipulação de arquivos" type="462c0819:PsiDirectoryNode" />
-              <item name="Reescrever texto em outro arquivo" type="462c0819:PsiDirectoryNode" />
-              <item name="Refazer" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -237,12 +115,37 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Udacity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Python\Scripts\Udacity" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\julia\OneDrive\Python\Deveres de sala\Manipulação de arquivos\Reescrever texto em outro arquivo\Refazer" />
     </key>
@@ -259,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Refazer">
+  <component name="RunManager" selected="Python.Standard Deviation">
     <configuration name="Enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,7 +235,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Standard Deviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,30 +243,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Sintax/Geradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\Python\Scripts\Udacity\Standard Deviation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Yield" />
       <item itemvalue="Python.Enumerate" />
       <item itemvalue="Python.Exercicio 1" />
       <item itemvalue="Python.Matplotlib" />
       <item itemvalue="Python.Refazer" />
+      <item itemvalue="Python.Standard Deviation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Standard Deviation" />
         <item itemvalue="Python.Refazer" />
         <item itemvalue="Python.Matplotlib" />
         <item itemvalue="Python.Exercicio 1" />
         <item itemvalue="Python.Enumerate" />
-        <item itemvalue="Python.Yield" />
       </list>
     </recent_temporary>
   </component>
@@ -455,32 +358,47 @@
       <option name="project" value="LOCAL" />
       <updated>1528846138463</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1529424543131</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1529424543131</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24804688" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39724138" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40167364" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49674055" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39448276" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -598,6 +516,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_1101 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -849,24 +774,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python/Sintax/Geradores/Yield.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -884,26 +795,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Reescrever.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrever.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Reescrito.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Scripts/Udacity/Standard Deviation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
