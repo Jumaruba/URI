@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python/Scripts/Udacity/Standard Deviation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Mostrar_dados_comparacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Consulta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Dados" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Trabalho/Programa_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Trabalho/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +20,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Programa_base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Programa_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="260" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trabalho (versao02).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teste.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,11 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1466 (accepted) .py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1515.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1101.py" />
-        <option value="$PROJECT_DIR$/Programação em python_URI_1865.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1864.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1864 (accepted).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1195.py" />
@@ -54,7 +84,6 @@
         <option value="$PROJECT_DIR$/Programação em python_URI_2380.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2399.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1890.py" />
-        <option value="$PROJECT_DIR$/Teste.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2420.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2469.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_2.py" />
@@ -77,15 +106,22 @@
         <option value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" />
         <option value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" />
         <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" />
-        <option value="$PROJECT_DIR$/../Python/Teste.py" />
         <option value="$PROJECT_DIR$/../Python/Standard Deviation.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Mostrar_dados_comparacao.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Dados" />
+        <option value="$PROJECT_DIR$/../Python/Trabalho/Programa_base.py" />
+        <option value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Consulta.py" />
+        <option value="$PROJECT_DIR$/Teste.py" />
+        <option value="$PROJECT_DIR$/../Python/Teste.py" />
+        <option value="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="600" />
+    <option name="y" value="-18" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,13 +161,12 @@
             <path>
               <item name="URI" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="URI" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="Udacity" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,11 +178,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\julia\OneDrive\Python\Scripts\Udacity" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\julia\OneDrive\Python\Deveres de sala\Manipulação de arquivos\Reescrever texto em outro arquivo\Refazer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Python\Scripts\Udacity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -162,8 +197,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Standard Deviation">
-    <configuration name="Enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Trabalho (versao02)">
+    <configuration name="Consulta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,17 +206,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Sintax/Enumerate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Enumerate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Consulta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Exercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mostrar_dados_comparacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,17 +224,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Sintax/Enumerate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Sintax/Enumerate/Exercicio 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Mostrar_dados_comparacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Programa_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,29 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Trabalho" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Refazer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Reescrever texto em outro arquivo/Refazer/Refazer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Trabalho/Programa_base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,20 +270,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Trabalho (versao02)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Trabalho" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Enumerate" />
-      <item itemvalue="Python.Exercicio 1" />
-      <item itemvalue="Python.Matplotlib" />
-      <item itemvalue="Python.Refazer" />
       <item itemvalue="Python.Standard Deviation" />
+      <item itemvalue="Python.Programa_base" />
+      <item itemvalue="Python.Mostrar_dados_comparacao" />
+      <item itemvalue="Python.Consulta" />
+      <item itemvalue="Python.Trabalho (versao02)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Trabalho (versao02)" />
+        <item itemvalue="Python.Consulta" />
+        <item itemvalue="Python.Mostrar_dados_comparacao" />
+        <item itemvalue="Python.Programa_base" />
         <item itemvalue="Python.Standard Deviation" />
-        <item itemvalue="Python.Refazer" />
-        <item itemvalue="Python.Matplotlib" />
-        <item itemvalue="Python.Exercicio 1" />
-        <item itemvalue="Python.Enumerate" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529424543131</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update">
+      <created>1529546736359</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529546736359</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -378,27 +420,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.203125" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40167364" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49674055" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.4537931" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.24827586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39448276" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31586206" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -512,45 +555,10 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="118" />
+      <option name="time" value="266" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1101 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1865 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1864 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1515 (wrong).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
@@ -665,13 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -809,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python/Data_Science_book/Visualizando dados/Matplotlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -830,6 +821,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Consulta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Dados">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Comparacao.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Mostrar_dados_comparacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Programa_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
