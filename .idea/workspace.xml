@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Mostrar_dados_comparacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Consulta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Testes_trabalho/Dados" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Trabalho/Programa_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python/Trabalho/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programação em python URI_1028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Trabalho/Tabela.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Trabalho/Tabela.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1045.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1779.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1779.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1802.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1802.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1866.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1866.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1985.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1985.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_2060.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_2060.exe" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,29 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Programa_base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Programa_base.py">
+      <file leaf-file-name="Programação em python URI_1028.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programação em python URI_1028.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="260" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Trabalho (versao02).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Teste.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python/Teste.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -58,12 +55,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programação em python_URI_1864.py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1864 (accepted).py" />
         <option value="$PROJECT_DIR$/Programação em python_URI_1195.py" />
         <option value="$PROJECT_DIR$/../Python/Deveres de sala/Maior valor lista.py" />
@@ -114,14 +110,23 @@
         <option value="$PROJECT_DIR$/Teste.py" />
         <option value="$PROJECT_DIR$/../Python/Teste.py" />
         <option value="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" />
+        <option value="$PROJECT_DIR$/Programação em python URI_1028.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="600" />
-    <option name="y" value="-18" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,44 +134,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-              <item name="C:\Users\julia\OneDrive\Python" type="cbb8eebc:String" user="C:\Users\julia\OneDrive\Python" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-              <item name="C:\Users\julia\OneDrive\Python" type="cbb8eebc:String" user="C:\Users\julia\OneDrive\Python" />
-              <item name="Deveres de sala" type="cbb8eebc:String" user="Deveres de sala" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deveres de sala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="URI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho" type="462c0819:PsiDirectoryNode" />
+              <item name="URI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,7 +149,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Ordem alfabetica" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -197,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Trabalho (versao02)">
+  <component name="RunManager" selected="Python.Programação em python URI_1028">
     <configuration name="Consulta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,19 +227,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Standard Deviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
+    <configuration name="Programação em python URI_1028" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="URI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\Python\Scripts\Udacity\Standard Deviation.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\julia\OneDrive\URI\Programação em python URI_1028 (accepted).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,19 +264,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Standard Deviation" />
       <item itemvalue="Python.Programa_base" />
       <item itemvalue="Python.Mostrar_dados_comparacao" />
       <item itemvalue="Python.Consulta" />
       <item itemvalue="Python.Trabalho (versao02)" />
+      <item itemvalue="Python.Programação em python URI_1028" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Programação em python URI_1028" />
         <item itemvalue="Python.Trabalho (versao02)" />
+        <item itemvalue="Python.Programa_base" />
         <item itemvalue="Python.Consulta" />
         <item itemvalue="Python.Mostrar_dados_comparacao" />
-        <item itemvalue="Python.Programa_base" />
-        <item itemvalue="Python.Standard Deviation" />
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +290,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527309954769</updated>
+      <workItem from="1531446624419" duration="73000" />
+      <workItem from="1531446776947" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1527533497013</created>
@@ -407,8 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529546736359</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update">
+      <created>1530163890330</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1530163890331</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,29 +407,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.203125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40677965" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.4537931" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.24827586" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.4537931" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.34309623" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31586206" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31586206" />
+      <window_info anchor="bottom" id="CMake" order="8" weight="0.32965517" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -559,20 +550,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_2300 (accepted).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programação em python_URI_1195 (incompleto).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Maior valor lista.py" />
     <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Soma recursiva.py" />
     <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Segundo maior numero (matriz).py" />
@@ -845,20 +822,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Comparacao.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python/Deveres de sala/Manipulação de arquivos/Notas_2/Mostrar_dados_comparacao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Programa_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="260" />
         </state>
       </provider>
     </entry>
@@ -869,10 +836,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Programa_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C++/CPP_URI_1045.cpp" />
+    <entry file="file://$PROJECT_DIR$/Programação em python URI_1028.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-end-line="16" />
         </state>
       </provider>
     </entry>
