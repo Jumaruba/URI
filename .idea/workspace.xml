@@ -9,24 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Programação em python URI_1028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Trabalho/Tabela.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Trabalho/Tabela.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/Trabalho/Trabalho (versao02).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1045.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1779.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1779.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1802.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1802.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1866.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1866.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1985.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_1985.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_2060.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CPP_URI_2060.exe" beforeDir="false" />
-    </list>
+    <list default="true" id="db2e9a4f-bf3f-4952-9c92-4f9499942fd4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Programação em python URI_1028.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programação em python URI_1028.py">
+      <file leaf-file-name="Programação em python URI_1028 (accepted).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programação em python URI_1028 (accepted).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-end-line="16" />
+              <caret line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -391,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530163890331</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update">
+      <created>1531631206475</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1531631206475</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -415,7 +405,7 @@
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.4537931" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.34309623" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.34309623" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -851,10 +841,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C++/CPP_URI_1045.cpp" />
-    <entry file="file://$PROJECT_DIR$/Programação em python URI_1028.py">
+    <entry file="file://$PROJECT_DIR$/Programação em python URI_1028 (accepted).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-end-line="16" />
+          <caret line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
