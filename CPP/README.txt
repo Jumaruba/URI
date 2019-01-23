@@ -1,8 +1,8 @@
-### Interesting intructions
+# Interesting intructions
 ## Here a few intructions that I've used in some problems, that maybe important for you.
 
 
-#HOW TO CHANGE FLOATING POINT PRECISION
+###HOW TO CHANGE FLOATING POINT PRECISION
 
 > #include <iomanip>_
 >
