@@ -10,3 +10,5 @@ int main()
     cout << "MEDIA = " <<(a*2+b*3+c*5)/10  << endl;
     return 0;
 }
+
+//https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
