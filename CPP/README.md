@@ -1,8 +1,10 @@
 # Interesting intructions
-## Here a few intructions that I've used in some problems, that maybe important for you.
 
 
-###HOW TO CHANGE FLOATING POINT PRECISION
+#### Here a few intructions that I've used in some problems, that maybe important for you.
+
+
+##### How to change floating point precision
 
 > #include <iomanip>_
 >
