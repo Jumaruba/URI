@@ -1,7 +1,8 @@
-# c++
+# C++
 Here are some problems from https://www.urionlinejudge.com.br/judge/pt in c++.
 
-### Some instructions
+
+## Some instructions
 
 Here a few intructions that I've used in some problems, that maybe important for you.
 
