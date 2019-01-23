@@ -1,8 +1,9 @@
 # c++
 Here are some problems from https://www.urionlinejudge.com.br/judge/pt in c++.
 
-### Here a few intructions that I've used in some problems, that maybe important for you.
+### Some instructions
 
+Here a few intructions that I've used in some problems, that maybe important for you.
 
 #### How to change floating point precision
 
