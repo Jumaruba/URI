@@ -9,7 +9,7 @@ Here a few intructions that I've used in some problems, that maybe important for
 #### 1. How to change floating point precision
 
 ```
- #include <iomanip>_
+ #include <iomanip>
 
    cout << fixed << setprecision(x);
 ```
