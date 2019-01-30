@@ -20,11 +20,11 @@ _In x you put how you want to format and from that line on, all the floating poi
 #### 2. Bubble Sort  (https://visualgo.net/pt/sorting)
 
 ```
-        while (swapped == true){
+         while (swapped == true){
             swapped = false;
             for (int i = 1; i < n; i++){
-                if (nova[i-1]> nova[i]){
-                    swap(nova[i],nova[i-1]);
+                if (vetor[i-1]> vetor[i]){
+                    swap(vetor[i],vetori-1]);
                     swapped = true;
-                    contador ++;
+                
  ```
