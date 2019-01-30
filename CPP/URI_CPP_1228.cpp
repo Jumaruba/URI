@@ -6,28 +6,26 @@ using namespace std;
 int main() {
     int quantidade;
     while(scanf("%d", &quantidade) != EOF){
-        //primeira parte serC! organizar a nova lista para poder aplicar o algoritmo de sort
+        // we want to create a new vector organized
         
         vector <int> quero, tenho;
         int aux = 0, contador= 0;
         bool swapped = true;
 
-        cin >> quantidade; 
-
-        //estamos criando o primeiro vetor
+        //ewe are inputing the first vector
         for (int i = 0; i < quantidade; i++){
             cin>> aux;
             quero.push_back(aux);
         }
 
-        //estamos criando o segundo vetor
+        //we are inputing the second vector
 
         for (int i = 0; i< quantidade; i++){
             cin >> aux;
             tenho.push_back(aux);
         }
 
-        //vamos criar a nova lista
+        //vwe are creating the new list
 
         vector <int> nova(quantidade);
         
