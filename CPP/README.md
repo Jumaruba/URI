@@ -26,7 +26,7 @@ while (swapped == true){
         if (nova[i-1]> nova[i]){
             swap(nova[i],nova[i-1]);
             swapped = true;
-            contador ++;
+      
                 
  ```
  
