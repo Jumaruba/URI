@@ -17,5 +17,14 @@ Here a few intructions that I've used in some problems, that maybe important for
 _In x you put how you want to format and from that line on, all the floating points will appear in that format._
 
 
-#### 2. Bubble Sort  #(https://visualgo.net/pt/sorting)
+#### 2. Bubble Sort  (https://visualgo.net/pt/sorting)
 
+```
+        while (swapped == true){
+            swapped = false;
+            for (int i = 1; i < n; i++){
+                if (nova[i-1]> nova[i]){
+                    swap(nova[i],nova[i-1]);
+                    swapped = true;
+                    contador ++;
+ ```
