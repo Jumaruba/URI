@@ -26,8 +26,22 @@ while (swapped == true){
         if (nova[i-1]> nova[i]){
             swap(nova[i],nova[i-1]);
             swapped = true;
-      
+                    
                 
  ```
  
+ #### 3. How many numbers
+ 
+```
+int algarismos(int n){  
+    int contador = 1;
 
+    while (n/10 != 0){
+        n = n/10;
+        contador ++;
+    }
+	return contador;
+ ```
+ 
+ 
+ For more exercises check https://codingcompetitions.withgoogle.com/ 
