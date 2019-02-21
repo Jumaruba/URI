@@ -45,6 +45,6 @@ int algarismos(int n){
  
  #### 4. Dont't forget
  
- 	If you want to use getline(cin, word) and after that, you need to use cin >> word2, don't forget you need to add cin.ignore() before use getline(cin, word)!
+ If you want to use getline(cin, word) and after that, you need to use cin >> word2, don't forget you need to add cin.ignore() before use getline(cin, word)!
  
  For more exercises check https://codingcompetitions.withgoogle.com/ 
