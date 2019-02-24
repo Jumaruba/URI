@@ -1,3 +1,7 @@
+# How to start your SQL data base
+
+All the work here will be done by using the file data.csv.
+
 ### How to import CSV data to SQL
 
 
@@ -17,4 +21,25 @@ For example:
 
 ```
   COPY data from '/home/maruba/Desktop/Data.csv' DELIMITER ',' csv header;
+```
+
+### How to clean data
+
+You can substitue some values by doing
+
+```
+UPDATE 
+   table_name
+SET 
+   column_name = REPLACE(column,old_text,new_text)
+WHERE 
+   condition
+ ```
+ 
+ For example: 
+ 
+ ```
+ UPDATE data
+set Value = REPLACE(Value, ':', NULL)
+where value = ':';
 ```
