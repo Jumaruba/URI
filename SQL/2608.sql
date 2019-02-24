@@ -17,3 +17,10 @@ VALUES
   /*  Execute this query to drop the tables */
   -- DROP TABLE products; --
      
+
+--------------------------------CODE------------------------------------
+
+select max(price), min(price)
+from products;
+
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2608---

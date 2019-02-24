@@ -30,3 +30,4 @@ VALUES
 select name, street
 from customers 
 where city = 'Porto Alegre';
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2603---

@@ -50,3 +50,5 @@ from products pd
 join categories c
 on pd.id_categories = c.id
 where c.name like 'super%';
+
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2606---

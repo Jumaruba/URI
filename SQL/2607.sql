@@ -28,3 +28,5 @@ VALUES
 select distinct city
 from providers
 order by city;
+
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2607---

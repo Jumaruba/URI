@@ -28,3 +28,7 @@ VALUES
 
 select trunc(avg(price),2)
 from products;
+
+
+
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2610---

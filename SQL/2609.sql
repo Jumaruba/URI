@@ -44,3 +44,5 @@ join categories c
 on p.id_categories = c.id
 group by c.name;
 
+
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2609---

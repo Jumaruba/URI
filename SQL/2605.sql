@@ -68,3 +68,5 @@ from products pd
 join providers pv
 on pv.id = pd.id_providers
 where id_categories = 6;
+
+---https://www.urionlinejudge.com.br/judge/pt/problems/view/2605---
