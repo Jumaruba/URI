@@ -36,3 +36,12 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE rentals, customers; --
+
+
+--------------------------------CODE-----------------------------------------------------
+
+select c.name, r.rentals_date
+from customers c
+join rentals r
+on c.id= r.id_customers
+where r.rentals_date>= to_date('2016-09-01','YYYY-MM-DD') and r.rentals_date<=to_date('2016-09-30','YYYY-MM-DD');
