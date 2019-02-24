@@ -1,4 +1,4 @@
-##### How to import csv data to sql
+# How to import csv data to sql
 
 
 First, create a table with the same columns of the file, for example:
