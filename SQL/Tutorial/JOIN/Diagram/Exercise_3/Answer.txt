@@ -1,0 +1,5 @@
+SELECT web_events.account_id, accounts.id, accounts.primary_poc, web_events.channel, accounts.name
+FROM web_events
+JOIN accounts
+ON accounts.id = web_events.account_id
+WHERE name = 'Walmart'

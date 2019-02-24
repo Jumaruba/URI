@@ -1,0 +1,21 @@
+SELECT region.name, sales_reps.name, accounts.name
+FROM sales_reps
+JOIN region
+ON region.id = sales_reps.region_id
+JOIN accounts
+ON sales_reps.id = accounts.sales_rep_id
+ORDER BY accounts.name
+
+WRONG!!
+
+SELECT r.name region, s.name rep, a.name account
+FROM sales_reps s
+JOIN region r
+ON r.id = s.region_id
+JOIN accounts a
+ON s.id = a.sales_rep_id
+ORDER BY a.name
+
+THIS IS THE RIGHT ONE
+
+O problema é que como os campos tem o mesmo nome, precisamos dar a eles nomes diferentes para que possam aparecer na tabela

@@ -1,0 +1,14 @@
+SELECT a.id,a.name,o.total
+FROM orders o
+RIGHT JOIN accounts a
+ON o.account_id = a.id
+
+
+it's the same thing of doing:
+
+SELECT a.id,a.name,o.total
+FROM aacounts a
+LEFT JOIN orders o
+ON o.account_id = a.id
+
+WE ARE USED TO USE MORE THE LEFT JOIN

@@ -1,0 +1,9 @@
+SELECT *
+FROM demo.web_events_full
+WHERE referrer_url LIKE '%google%'
+
+
+
+SELECT name
+FROM accounts
+WHERE name LIKE '%one%'

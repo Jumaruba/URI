@@ -1,0 +1,7 @@
+SELECT COUNT(*)
+FROM accounts;
+
+or
+
+SELECT COUNT(accounts.id)
+FROM accounts;

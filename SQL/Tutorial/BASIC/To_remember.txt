@@ -1,0 +1,18 @@
+SELECT *
+FROM orders
+ORDER BY occurred_at DESC, total_amd_usd DESC
+LIMIT 5;
+
+
+
+
+SELECT *
+FROM orders
+WHERE gloss_amt_usd >= 1000
+LIMIT 5;
+
+
+
+SELECT name,website,primary_poc
+FROM acccounts
+WHERE name = 'Exxon Mobil';

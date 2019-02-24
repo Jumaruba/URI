@@ -1,0 +1,2 @@
+SELECT SUM(standard_qty) AS total_standard_sales
+FROM orders;

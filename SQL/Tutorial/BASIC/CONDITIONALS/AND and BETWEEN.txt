@@ -1,0 +1,21 @@
+SELECT *
+FROM demo.orders
+WHERE occurred_at <= '2016-04-01' and occurred_at <= '2016-10-01' 
+ORDER BY occurred_at DESC
+
+
+SELECT *
+FROM orders
+WHERE standard_qty > 1000 and poster_qty = 0 and gloss_qty =0;
+
+
+SELECT name
+FROM accounts
+WHERE name LIKE '%C' AND name LIKE '%s'
+
+
+
+SELECT *
+FROM web_events
+WHERE channel IN ('organic','adwords') and occurred_at BETWEEN '2019-01-01' AND '2017-01-01'
+ORDER BY occurred_at;

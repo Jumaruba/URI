@@ -1,0 +1,31 @@
+SELECT accounts.name, orders.occurred_at
+FROM orders
+JOIN accounts
+ON orders.account_id = accounts.id;
+
+
+This query only pulls two columns, not all the information in these two tables.
+Alternatively, the below query pulls all the columns from both the accounts and orders table.
+
+
+SELECT *
+FROM orders
+JOIN accounts
+ON orders.account_id = accounts.id;
+
+
+And the first query you ran pull all the information from only the orders table:
+
+
+SELECT orders.*
+FROM orders
+JOIN accounts
+ON orders.account_id = accounts.id;
+
+
+Exercise:
+
+SELECT orders.standard_qty, orders.gloss_qty, orders.poster_qty, accounts.website, accounts.primary_poc
+FROM orders
+JOIN accounts
+ON accounts.id = orders.id

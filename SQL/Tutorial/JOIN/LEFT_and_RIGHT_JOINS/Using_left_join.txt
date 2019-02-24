@@ -1,0 +1,5 @@
+SELECT 
+FROM left table
+LEFT JOIN right table
+
+I'll get all the results that match with the right table, including the interception.

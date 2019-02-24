@@ -1,0 +1,2 @@
+Find the mean (AVERAGE) amount spent per order on each paper type, as well as the mean amount of each paper type purchased per order. 
+Your final answer should have 6 values - one for each paper type for the average number of sales, as well as the average amount.

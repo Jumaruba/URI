@@ -1,0 +1,3 @@
+SELECT * FROM table_A 
+FULL OUTER JOIN table_B 
+ON table_A.A=table_B.A;

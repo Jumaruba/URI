@@ -1,0 +1,1 @@
+Try to perform the result of the previous query without using an aggregation function.

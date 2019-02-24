@@ -1,0 +1,7 @@
+You need to write something like:
+
+WHERE order IS NULL
+
+or
+
+WHERE order IS NOT NULL

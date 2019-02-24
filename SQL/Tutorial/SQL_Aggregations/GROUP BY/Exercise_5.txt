@@ -1,0 +1,8 @@
+Who was the primary contact associated with the earliest web_event? 
+
+SELECT a.primary_poc
+FROM accounts a
+JOIN web_events w
+ON w.account_id = a.id
+ORDER BY w.occurred_at
+LIMIT 1;

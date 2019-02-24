@@ -1,0 +1,2 @@
+SELECT  SUM (standard_amt_usd) / SUM(standard_qty) AS per_unit
+FROM ORDERS

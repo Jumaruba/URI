@@ -1,0 +1,8 @@
+SELECT r.name region, a.name account, (o.total_amt_usd/(o.total+0.01)) total
+FROM orders o
+JOIN accounts a
+ON a.id = o.account_id
+JOIN sales_reps s
+ON a.sales_rep_id = s.id
+JOIN region r
+ON s.region_id = r.id
