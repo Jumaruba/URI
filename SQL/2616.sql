@@ -1,7 +1,7 @@
 --- URI Online Judge SQL
 --- Copyright URI Online Judge
 --- www.urionlinejudge.com.br
---- Problem 2614
+--- Problem 2616
 
 CREATE TABLE customers (
   id numeric PRIMARY KEY,
@@ -10,9 +10,10 @@ CREATE TABLE customers (
   city varchar(50)
 );
 
-CREATE TABLE rentals (
+
+CREATE TABLE locations (
   id numeric PRIMARY KEY,
-  rentals_date date,
+  locations_date date,
   id_customers numeric REFERENCES customers (id)
 );
 
@@ -25,7 +26,8 @@ VALUES
   (5,	'João Almeida Lima',	'Rua Rio Taiuva',	'Ponta Grossa'),
   (6,	'Diogo Melo Dias',	'Rua Duzentos e Cinqüenta',	'Várzea Grande');
   
-INSERT INTO rentals (id, rentals_date, id_customers)
+
+INSERT INTO locations (id , locations_date, id_customers)
 VALUES
   (1,	'09/10/2016',	3),
   (2,	'02/09/2016',	1),
@@ -34,16 +36,15 @@ VALUES
   (5,	'02/03/2016',	6),
   (6,	'04/04/2016',	4);
   
+
   /*  Execute this query to drop the tables */
-  -- DROP TABLE rentals, customers; --
+  -- DROP TABLE locations, customers; --
+
+--------------------------------------CODE------------------------------------------------
 
 
---------------------------------CODE-----------------------------------------------------
+select c.id, c.name 
+from customers c 
+where not exists (select id_customers from locations where id_customers = c.id);
 
-select c.name, r.rentals_date
-from customers c
-join rentals r
-on c.id= r.id_customers
-where r.rentals_date>= to_date('2016-09-01','YYYY-MM-DD') and r.rentals_date<=to_date('2016-09-30','YYYY-MM-DD');
-
-#https://www.urionlinejudge.com.br/judge/pt/problems/view/2614
+#https://www.urionlinejudge.com.br/judge/pt/problems/view/2616
