@@ -49,6 +49,16 @@ VALUES
   (4,	'Blue Toaster',	20,	9.90,	3,	1),
   (5,	'TV',	30,	3000.25,	2,	2);
   
-  
+
 /*  Execute this query to drop the tables */
 -- DROP TABLE products, categories, providers; --
+
+-------------------------------------------CODE--------------------------------------
+
+select pd.name, pv.name, c.name
+from products pd
+join providers pv
+on pv.id = pd.id_providers
+join categories c
+on c.id = pd.id_categories
+where pv.name = 'Sansul SA' and c.name = 'Imported';
